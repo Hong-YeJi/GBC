@@ -25,6 +25,7 @@ WordPresss는 가장 두려워하는 개발 플랫폼이며 많은 개발자가 
 출처 : [stack overflow - Most Loved, Dreaded, and Wanted Platforms](https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted-platforms)
    
 ### ❤️ 리눅스가 사랑받는 이유
+![linux](https://ifh.cc/g/qm7XK4.jpg)
 1. 무료   
    리눅스는 모든 것이 무료이기 때문에 큰 매력을 가집니다.
 2. 오픈소스   
@@ -50,7 +51,7 @@ WordPresss는 가장 두려워하는 개발 플랫폼이며 많은 개발자가 
 5. 다른 서비스에 밀림   
    CMS 서비스에서 워드프레스는 드루팔보다는 쉽고, 대중적이라는 강점을 가지고 있었지만 이제는 대중성에서 다른 서비스에 밀리기 시작했습니다. 더 쉽게 홈페이지를 만들어 주는 서비스가 워드프레스보다 저렴한 가격대에 훨씬 뛰어난 퀄리티를 편리하게 제공해 줍니다. 워드프레스는 수만 개의 플러그인이 있고 이 중 자신에게 필요한 플러그인을 찾는 것도 쉽지 않은 일입니다. 또한 이것이 제대로 작동하는제 테스트하고, 플로그인 간에 호환을 테스트하는 작업이 힘듭니다. 몇몇의 플러그인은 추가적인 기능을 위해 비용이 발생하는데, 구매한 유료서비스마다 서로 충돌되는 부분이 생기면 일일이 수정하고 맞추어 주는 것이 너무 복잡합니다.
    
-    [출처1](https://blog.helloweb.co.kr/the-pros-and-the-cons-of-the-wordpress-homepage/)   
+    [출처1](https://blog.helloweb.co.kr/the-pros-and-the-cons-of-the-wordpress-homepage/), 
     [출처2](https://velog.io/@hansanghun/%EB%82%98%EB%8A%94-%EC%99%9C-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EA%B0%80)
    
 ### 🤩 Docker를 원하는 이유
@@ -63,6 +64,6 @@ WordPresss는 가장 두려워하는 개발 플랫폼이며 많은 개발자가 
 4. 팀워크에서의 이점   
    개발을 하다보면 팀원들과 언어나 프레임워크의 버전이 달라 오류가 나는 경우가 있는데, 도커를 사용하면 이러한 문제를 쉽게 해결할 수 있습니다. 도커 이미지에 언어나 프레임워크 버전을 미리 모두 정해놓을 수 있고 해당 이미지를 컨테이너화 시키면 그 컨테이너는 로컬 환경의 간섭 없이 독립적으로 구동하기 때문입니다. dockerfile을 사용하면 설치할 언어, 프레임워크, 패키지 등을 미리 코드 형태로 명시하고 어느 컴퓨터에서든 쉽게 자동으로 설치할 수 있습니다.
 
-    [출처1](https://here4you.tistory.com/270)   
+    [출처1](https://here4you.tistory.com/270), 
     [출처2](https://velog.io/@ye1219/%EB%8F%84%EC%BB%A4Docker%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 
