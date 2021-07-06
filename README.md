@@ -13,7 +13,6 @@ Day2 Homework
 + Most Loved
 ![Most Loved](https://ifh.cc/g/KYiE9i.png)
 
-
 + Most Dreaded
 ![Most Dreaded](https://ifh.cc/g/YUbpUn.png)
 
