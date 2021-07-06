@@ -20,7 +20,7 @@
 ![Most Dreaded](https://ifh.cc/g/15srT5.png)
    
 => Linux는 가장 사랑받고 있는 개발 플랫폼이고 Docker도 2위로 큰 사랑을 받고 있습니다. 라즈베리파이도 4위로 꽤 사랑을 받고 있다는 것을 설문조사를 통해 알 수 있었다.   
-WordPresss는 가장 두려워하는 개발 플랫폼이며 많은 개발자가 Docker 및 AWS를 사용하여 개발을 시작하고 싶다고 한다는 설문 조사 결과가 나왔습니다.
+WordPresss는 가장 두려워하는 개발 플랫폼이며 많은 개발자가 Docker 및 AWS를 사용하여 개발을 시작하고 싶다고 한다는 설문 조사 결과가 나온 것을 확인할 수 있습니다.
    
 출처 : [stack overflow - Most Loved, Dreaded, and Wanted Platforms](https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted-platforms)
    
