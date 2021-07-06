@@ -11,7 +11,7 @@ Day2 Homework
 
 #### Most Loved, Most Dreaded, Most Wanted 세 분류에 따라 플랫폼이 차지하는 비율과 순위가 다르게 나타납니다.
 + Most Loved
-![Most Loved](https://ifh.cc/v-KYiE9i)
+![Most Loved](https://ifh.cc/g/KYiE9i.png)
 
 + Most Dreaded
 
