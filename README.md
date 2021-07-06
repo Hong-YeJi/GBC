@@ -56,6 +56,7 @@ WordPresss는 가장 두려워하는 개발 플랫폼이며 많은 개발자가 
     [출처2](https://velog.io/@hansanghun/%EB%82%98%EB%8A%94-%EC%99%9C-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EA%B0%80)
    
 ### 🤩 Docker를 원하는 이유
+![docker](https://ifh.cc/g/xglohG.png)
 1. 성능 측면   
    VMWare은 매우 무겁지만, docker는 별도의 게스트 OS가 설치되지 않고 docker 엔진을 통해 바로 호스트 OS를 통해 컴퓨팅 자원에 접근할 수 있습니다. 
 2. 배포 측면   
