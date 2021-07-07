@@ -11,6 +11,7 @@
 >   > 처음 문제를 풀 때, n=1부터 계산해보면서 피보나치 규칙을 찾아서 문제를 풀었었는데,   
 > 사용했던 방법 말고 다른 방법도 함께 정리해 보고자 [2 x n 타일링 문제](https://www.acmicpc.net/problem/11726)를 vim으로 코드를 짜게 되었습니다.
    
+   
 ## 🧩 문제 소개   
 <img src="https://ifh.cc/g/cb4lz5.png" width="70%" ></img>
 <img src="https://ifh.cc/g/3VgN7I.png" width="50%" ></img>
