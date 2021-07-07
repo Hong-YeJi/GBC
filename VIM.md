@@ -20,7 +20,7 @@
 <img src="https://ifh.cc/g/oNiDI0.jpg" width="70%" ></img>
    
 🌈 접근 방법1
-> n=1일 때 1가지 방법, n=2일 때 2가지 방법, n=3일 때 3(1+2)가지 방법, n=4일 때 5(2+3)가지 방법...
+> n=1일 때 1가지 방법, n=2일 때 2가지 방법, n=3일 때 3(1+2)가지 방법, n=4일 때 5(2+3)가지 방법...   
 > => 피보나치 규칙을 따른다는 것을 알 수 있음   
 <img src="https://ifh.cc/g/7fnziF.png" width="70%" ></img>
 <img src="https://ifh.cc/g/TCXNP0.png" width="70%" ></img>
