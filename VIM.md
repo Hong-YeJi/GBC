@@ -12,9 +12,8 @@
    
 🧩 문제 소개   
 <img src="https://ifh.cc/g/cb4lz5.png" width="70%" ></img>
-![문제](https://ifh.cc/g/cb4lz5.png)
-![그림](https://ifh.cc/g/3VgN7I.png)
-![입출력](https://ifh.cc/g/KlQkbO.png)
+<img src="https://ifh.cc/g/3VgN7I.png" width="70%" ></img>
+<img src="https://ifh.cc/g/KlQkbO.png" width="70%" ></img>
    
    
 🍄 Code(using vim)   
