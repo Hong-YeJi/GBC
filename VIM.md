@@ -30,5 +30,5 @@
 <img src="https://ifh.cc/g/dS3m2x.png" width="60%" ></img>
    
    
-### 접근 방법에 약간의 차이가 있어도 코드가 같은 구성이기에 base case와 점화식, 시간 복잡도는 똑같이 구할 수 있다.
+### ⭐️ 접근 방법에 약간의 차이가 있어도 코드가 같은 구성이기에 base case와 점화식, 시간 복잡도는 똑같이 구할 수 있다.
 ![정리](https://ifh.cc/g/xp3yDV.png)
