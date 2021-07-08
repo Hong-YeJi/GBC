@@ -14,7 +14,8 @@
 ![todo](https://ifh.cc/g/7u2fzY.png)   
 🔎 Extension 소개   
 코딩을 하다보면, 중간 중간 해야 하는 일을 주석으로 남겨두는 일이 있습니다.   
-그러나, 해야할 일만을 주석으로 남겨두는 것이 아니기 때문에 코드가 길어지면 길어질 수록 메모해둔 주석을 찾기가 어렵기도 하고, 주석을 달아둔 것도 잊기가 쉽습니다.   
+그러나, 해야할 일만을 주석으로 남겨두는 것이 아니기 때문에 코드가 길어지면 길어질 수록   
+메모해둔 주석을 찾기가 어렵기도 하고, 주석을 달아둔 것도 잊기가 쉽습니다.   
 TODO Highlight는 이럴 때 정말 유용하게 쓰이는 Extension입니다.   
 
 🔎 Extension 사용 방법   
@@ -23,7 +24,7 @@ TODO Highlight는 이럴 때 정말 유용하게 쓰이는 Extension입니다.
 와 같이 TODO나 FIXME 뒤에 주석 내용을 달면 다음과 같이 주석이 강조된 것을 확인할 수 있습니다.   
 <img src="https://ifh.cc/g/yrnq48.png" width="70%" ></img>   
 Command 창(command + shift + p)에서 TODO-Highligh: Toggle Highlight 명령을 사용하면 hightlight를 끄고 킬 수 있습니다.   
-<img src="https://ifh.cc/g/LYPGxn.png" width="70%" ></img>   
+<img src="https://ifh.cc/g/LYPGxn.png" width="50%" ></img>   
 => highlight를 끄면 평상시 사용하던 주석과 같이 됩니다.
 
 🔎 이 Extension이 유용한 이유   
@@ -40,7 +41,7 @@ Color highlight extension을 설치하고 색상 코드를 입력하면, 지정�
 <img src="https://ifh.cc/g/ElZxm4.png" width="70%" ></img>   
 
 🔎 이 Extension이 유용한 이유   
-색상 코드가 어떠한 색을 나타내고 있는지 알기가 어려워서 번거로운 부분이 있었는데, 코드 위에 지정한 색이 바로바로 나타나기 때문에 기존에 사용했던 코드를 다시 재사용할 때 색상 코드를 쉽게 확인할 수 있어서 유용하다.
+색상 코드가 어떠한 색을 나타내고 있는지 알기가 어려워서 번거로운 부분이 있었는데, 코드 위에 지정한 색이 바로바로 나타나기 때문에 기존에 사용했던 코드를 다시 재사용할 때 색상 코드를 쉽게 확인할 수 있어서 유용합니다.
    
 ### ⭐️ 세 번째 Extension
 ![indent](https://ifh.cc/g/6j4P0V.png)   
