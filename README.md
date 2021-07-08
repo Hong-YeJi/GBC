@@ -54,4 +54,4 @@ Indent rainbow extension을 설치하고 tab으로 indent를 적용하면, inden
 <img src="https://ifh.cc/g/ZrVK5d.png" width="50%" ></img>   
 
 🔎 이 Extension이 유용한 이유   
-들여쓰기의 개수가 많으면 많을수록 indent 영역이 헷갈릴 수 있는데, 이 extension을 사용하면 indent를 잘 구분하여 사용할 수 있기 때문에 코드의 가독성을 높일 수 있습니다.
+들여쓰기의 개수가 많으면 많을수록 indent 영역이 헷갈릴 수 있는데, 이 extension을 사용하면 indent를 잘 구분하여 사용할 수 있기 때문에 코드의 가독성을 높일 수 있습니다.   
