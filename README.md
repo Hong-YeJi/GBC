@@ -12,14 +12,13 @@ css를 사용할 때 유용한 Color highlight extension,
 들여 쓰기를 할 때마다 탭 별로 색깔을 구분할 수 있게 하는 Indent rainbow extension을 소개합니다.
    
 
-### ⭐️ Most Loved, Most Dreaded, Most Wanted 세 개의 분류에 따라 플랫폼이 차지하는 비율과 순위가 다르게 나타납니다.
-## + Most Loved
+### ⭐️ 첫 번째 Extension
 ![Most Loved](https://ifh.cc/g/KYiE9i.png)
    
-## + Most Dreaded
+### ⭐️ 두 번째 Extension
 ![Most Dreaded](https://ifh.cc/g/YUbpUn.png)
    
-## + Most Wanted
+### ⭐️ 세 번째 Extension
 ![Most Dreaded](https://ifh.cc/g/15srT5.png)
    
 => Linux는 가장 사랑받고 있는 개발 플랫폼이고 Docker도 2위로 큰 사랑을 받고 있습니다. 라즈베리파이도 4위로 꽤 사랑을 받고 있다는 것을 설문조사를 통해 알 수 있었다.   
