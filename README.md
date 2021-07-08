@@ -5,7 +5,7 @@
 (유용한 Extensions 소개)
 ------------------------
 > - 개요
->   > VSCode 확장 마켓 플레이스에서 평소 불편했던 부분을 해결해주는 유용한 extiension 3가지를 찾게 되었습니다.   
+>   > VSCode 확장 마켓 플레이스에서 평소 불편했던 부분을 해결해주는 유용한 extiension 3가지를 찾아 보았습니다.   
 > 
 >   > 코딩을 할 때 유용한 TODO highlight extension,   
 css를 사용할 때 유용한 Color highlight extension,   
@@ -16,7 +16,10 @@ Indent rainbow extension을 소개합니다.
 ### ⭐️ 첫 번째 Extension
 ![todo](https://ifh.cc/g/7u2fzY.png)   
 🔎 Extension 소개   
-코딩을 하다보면, 중간 중간 해야 하는 일을 주석으로 남겨두는 일이 있습니다. 그러나, 해야 할 일만을 주석으로 남겨두는 것이 아니기 때문에 코드가 길어지면 길어질 수록 메모해둔 주석을 찾기가 어렵기도 하고, 주석을 달아둔 것도 잊기가 쉽습니다. 이럴 때 정말 유용하게 쓰이는 Extension입니다.   
+코딩을 하다보면, 중간 중간 해야 하는 일을 주석으로 남겨두는 일이 있습니다.   
+그러나, 해야할 일만을 주석으로 남겨두는 것이 아니기 때문에 코드가 길어지면 길어질 수록 메모해둔 주석을 찾기가 어렵기도 하고,   
+주석을 달아둔 것도 잊기가 쉽습니다.   
+TODO Highlight는 이럴 때 정말 유용하게 쓰이는 Extension입니다.   
 
 🔎 Extension 사용 방법   
 // TODO:    
