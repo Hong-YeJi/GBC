@@ -44,5 +44,14 @@ Color highlight extension을 설치하고 색상 코드를 입력하면, 지정�
    
 ### ⭐️ 세 번째 Extension
 ![indent](https://ifh.cc/g/6j4P0V.png)   
+🔎 Extension 소개   
+탭을 누르면 들여쓰기가 가능한데 들여쓰기를 많이 하다보면 들여쓰기 영역이 헷갈리는 경우가 있습니다.   
+indent rainbow extension를 설치하면 indent별로 색상을 구별해주어서 헷갈리지 않게 해줍니다.
 
+🔎 Extension 사용 방법   
+Color highlight extension을 설치하고 색상 코드를 입력하면, 지정한 색상이 표현되는 것을 확인할 수 있습니다.   
+<img src="https://ifh.cc/g/Ulwe8F.jpg" width="70%" ></img>   
+
+🔎 이 Extension이 유용한 이유   
+색상 코드가 어떠한 색을 나타내고 있는지 알기가 어려워서 번거로운 부분이 있었는데, 코드 위에 지정한 색이 바로바로 나타나기 때문에 기존에 사용했던 코드를 다시 재사용할 때 색상 코드를 쉽게 확인할 수 있어서 유용하다.
 
