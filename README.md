@@ -24,7 +24,7 @@ TODO Highlight는 이럴 때 정말 유용하게 쓰이는 Extension입니다.
 🔎 Extension 사용 방법   
 // TODO:    
 // FIXME:    
-와 같이 TODO나 FIXME 뒤에 주석 내용을 달면 다음과 같이 강조가 됩니다.   
+와 같이 TODO나 FIXME 뒤에 주석 내용을 달면 다음과 같이 주석이 강조된 것을 확인할 수 있습니다.   
 <img src="https://ifh.cc/g/yrnq48.png" width="70%" ></img>   
 Command 창(command + shift + p)에서 TODO-Highligh: Toggle Highlight 명령을 사용하면 hightlight를 끄고 킬 수 있습니다.   
 <img src="https://ifh.cc/g/LYPGxn.png" width="70%" ></img>   
