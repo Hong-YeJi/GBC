@@ -1,13 +1,16 @@
-🍋 Day2 Homework 🍋
+🍋 Day4 Homework 🍋
 =============
 
-## 스택 오버플로우 설문조사   
-(Most Loved, Dreaded, and Wanted Platforms)
--------------------------------------------
+## VSCode 확장 마켓 플레이스
+(유용한 Extensions 소개)
+------------------------
 > - 개요
->   > 이 설문 조사에 등장하는 플랫폼을 모두 사용해 본 것은 아니지만 리눅스나 도커, 라즈베리 파이, 맥 OS, ios, 안드로이드, 윈도우, Heroku, 워드 프레스 등 익숙해 보이는 것들이 가장 많은 설문조사여서 눈길이 가게 되었습니다.
->
->   > 도커라는 것을 이번에 알게 되어서 사용해 보고 있는데, 도커가 사랑받는 플랫폼에서 높은 비율을 차지하고 있어서 왜 그런지 궁금하여 스택 오버플로우 설문조사 중에서도 [Most Loved, Dreaded, and Wanted Platforms](https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted-platforms) 파트를 선정하여 조사해 보았습니다.
+>   > VSCode 확장 마켓 플레이스에서 평소 불편했던 부분을 해결해주는 유용한 extiension 3가지를 찾게 되었습니다.   
+> 
+>  > 코딩을 할 때 유용한 TODO highlight extension,   
+css를 사용할 때 유용한 Color highlight extension,   
+들여 쓰기를 할 때마다 탭 별로 색깔을 구분할 수 있게 하는 Indent rainbow extension을 소개합니다.
+   
 
 ### ⭐️ Most Loved, Most Dreaded, Most Wanted 세 개의 분류에 따라 플랫폼이 차지하는 비율과 순위가 다르게 나타납니다.
 ## + Most Loved
